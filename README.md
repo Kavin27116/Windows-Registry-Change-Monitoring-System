@@ -1,5 +1,4 @@
 # Windows Registry Monitoring System
-### Final Year Internship Project
 
 A Python project to monitor the Windows Registry for suspicious changes. It checks for new, modified, or deleted registry keys and compares them against known malware patterns. 
 
